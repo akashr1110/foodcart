@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "name": " Margherita Pizza",
+        "amt": 20,
+        "shop": "Pizza",
+        "ftype": "Pizza",
+        "image": "https://cdn.dummyjson.com/recipe-images/1.webp"
+    },
+    {
+        "id": 2,
+        "name": "Pepperoni Pizza",
+        "amt": 22,
+        "shop": "Pizza",
+        "ftype": "Pizza",
+        "image": "https://cdn.dummyjson.com/recipe-images/2.webp"
+    },
+    {
+        "id": 3,
+        "name": "Vegetarian Pizza",
+        "amt": 18,
+        "shop": "Pizza",
+        "ftype": "Pizza",
+        "image": "https://cdn.dummyjson.com/recipe-images/3.webp"
+    },
+    {
+        "id": 4,
+        "name": "BBQ Chicken Pizza",
+        "amt": 25,
+        "shop": "Pizza",
+        "ftype": "Pizza",
+        "image": "https://cdn.dummyjson.com/recipe-images/4.webp"
+    },
+    {
+        "id": 5,
+        "name": "Hawaiian Pizza",
+        "amt": 21,
+        "shop": "Pizza",
+        "ftype": "Pizza",
+        "image": "https://cdn.dummyjson.com/recipe-images/5.webp"
+    },
+    {
+        "id": 6,
+        "name": "Margherita Pasta",
+        "amt": 16,
+        "shop": "Italian",
+        "ftype": "Pasta",
+        "image": "https://cdn.dummyjson.com/recipe-images/6.webp"
+    },
+    {
+        "id": 7,
+        "name": "Spaghetti Carbonara",
+        "amt": 19,
+        "shop": "Italian",
+        "ftype": "Pasta",
+        "image": "https://cdn.dummyjson.com/recipe-images/7.webp"
+    },
+    {
+        "id": 8,
+        "name": "Chicken Alfredo Pasta",
+        "amt": 23,
+        "shop": "Italian",
+        "ftype": "Pasta",
+        "image": "https://cdn.dummyjson.com/recipe-images/8.webp"
+    },
+    {
+        "id": 9,
+        "name": "Vegetable Lasagna",
+        "amt": 20,
+        "shop": "Italian",
+        "ftype": "Pasta",
+        "image": "https://cdn.dummyjson.com/recipe-images/9.webp"
+    },
+    {
+        "id": 10,
+        "name": "Mushroom Risotto",
+        "amt": 17,
+        "shop": "Italian",
+        "ftype": "Risotto",
+        "image": "https://cdn.dummyjson.com/recipe-images/10.webp"
+    },
+    {
+        "id": 11,
+        "name": "Supreme Pizza",
+        "amt": 24,
+        "shop": "Pizza",
+        "ftype": "Pizza",
+        "image": "https://cdn.dummyjson.com/recipe-images/11.webp"
+    },
+    {
+        "id": 12,
+        "name": "Veggie Delight Pizza",
+        "amt": 19,
+        "shop": "Pizza",
+        "ftype": "Pizza",
+        "image": "https://cdn.dummyjson.com/recipe-images/12.webp"
+    },
+    {
+        "id": 13,
+        "name": "Four Cheese Pizza",
+        "amt": 26,
+        "shop": "Pizza",
+        "ftype": "Pizza",
+        "image": "https://cdn.dummyjson.com/recipe-images/13.webp"
+    },
+    {
+        "id": 14,
+        "name": "Penne Arrabbiata",
+        "amt": 17,
+        "shop": "Italian",
+        "ftype": "Pasta",
+        "image": "https://cdn.dummyjson.com/recipe-images/14.webp"
+    },
+    {
+        "id": 15,
+        "name": "Fettuccine Alfredo",
+        "amt": 20,
+        "shop": "Italian",
+        "ftype": "Pasta",
+        "image": "https://cdn.dummyjson.com/recipe-images/15.webp"
+    },
+    {
+        "id": 16,
+        "name": "Meat Lover's Pizza",
+        "amt": 27,
+        "shop": "Pizza",
+        "ftype": "Pizza",
+        "image": "https://cdn.dummyjson.com/recipe-images/16.webp"
+    },
+    {
+        "id": 17,
+        "name": "Chicken Parmesan",
+        "amt": 22,
+        "shop": "Italian",
+        "ftype": "Entree",
+        "image": "https://cdn.dummyjson.com/recipe-images/17.webp"
+    },
+    {
+        "id": 18,
+        "name": "Seafood Linguine",
+        "amt": 28,
+        "shop": "Italian",
+        "ftype": "Pasta",
+        "image": "https://cdn.dummyjson.com/recipe-images/18.webp"
+    },
+    {
+        "id": 19,
+        "name": "Caprese Salad",
+        "amt": 15,
+        "shop": "Italian",
+        "ftype": "Salad",
+        "image": "https://cdn.dummyjson.com/recipe-images/19.webp"
+    },
+    {
+        "id": 20,
+        "name": "Tiramisu",
+        "amt": 12,
+        "shop": "Italian",
+        "ftype": "Dessert",
+        "image": "https://cdn.dummyjson.com/recipe-images/20.webp"
+    }
+]
+

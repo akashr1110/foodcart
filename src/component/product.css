@@ -1,0 +1,44 @@
+.product {
+  width: 200px;
+  height: 300px;
+  border: 1px solid #ccc;
+}
+.product .img {
+  width: 100%;
+  height: 150px;
+}
+.product .img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.details {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center items horizontally */
+}
+.details h3 {
+  margin-bottom: 10px;
+  font-size: 14px;
+  text-align: center;
+}
+.details button {
+  margin-top: 5px;
+  padding: 5px 10px;
+  background-color: teal;
+  color: #fffaf0;
+  border: none;
+  border-radius: 3px;
+}
+.details button:hover {
+  background-color: rgb(2, 104, 104);
+}
+.details p {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  color: #888;
+}
+.btn{
+    background-color: red !important;
+}

@@ -1,0 +1,36 @@
+.navbar{
+    width: 97%;
+    height: 50px;
+    background-color: #222;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+.logo{
+    color: white;
+    font-size: 20px;
+}
+.navbar ul{
+    display: inline-flex;
+    gap: 10px;
+}
+.navbar ul li{
+    list-style-type: none;
+
+}
+.navbar ul li a{
+    color: rgb(247, 249, 250);
+    text-decoration: none;
+}
+.span{
+    background-color: rgb(112, 112, 28);
+    padding: 5px;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    font-size: 16px;
+    text-align: center;
+    color: azure;
+}
